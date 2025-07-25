@@ -1,8 +1,0 @@
-# config.py
-GOOGLE_SHEETS_SERVICE_ACCOUNT_FILE = 'G:/My Drive/Python/music-automation/credentials.json'
-GOOGLE_SHEETS_SPREADSHEET_ID = '10BK4b1_w1iInxgDL-cDgWtK776PsqxXlspZqjNFrj3Y' # Get this from the sheet URL
-YOUTUBE_API_KEY = 'AIzaSyBmr5g7WU7STMlywczX3sCE-P6uvNfoC6o'
-SPOTIFY_CLIENT_ID = '9d639f7edbc147f38864166ce4fe8b8b'
-SPOTIFY_CLIENT_SECRET = '38aba7b1125642a1aa844ff8e24752d9'
-LLM_API_KEY = 'AIzaSyC1_COLheR-T8xYIXKvAKOFgJFWp0y2BH0' # For your chosen LLM (e.g., OpenAI, Gemini)
-SPOTIFY_REFRESH_TOKEN = 'AQAD7AA9Am8KOHtiYw1RbaTvwCuHzwpbAqGL2H42FzIK39vKAV7bfFGQinQUeOW3G_Z57RjslD9tzMsIiZ3ldfeiCLswvgsUvz2fGWb8ydpsxmwBI0rll8YbM61H-phxdds'

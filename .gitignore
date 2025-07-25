@@ -3,6 +3,8 @@ credentials.json
 spotify_creds.json
 public_APIs.py
 client_secret.json
+config.py
+headers_auth1.json
 =======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
